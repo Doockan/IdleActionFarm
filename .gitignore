@@ -1,3 +1,7 @@
 ﻿IdleActionFarm/.idea
 IdleActionFarm/Packages
 IdleActionFarm/UserSettings
+IdleActionFarm/Library
+IdleActionFarm/obj
+IdleActionFarm/Logs
+*.csproj
